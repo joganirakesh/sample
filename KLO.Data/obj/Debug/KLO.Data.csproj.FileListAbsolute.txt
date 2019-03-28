@@ -1,0 +1,14 @@
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\bin\Debug\KLO.Data.dll.config
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\bin\Debug\KLO.Data.dll
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\bin\Debug\KLO.Data.pdb
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\bin\Debug\EntityFramework.dll
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\bin\Debug\KLO.Model.dll
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\bin\Debug\EntityFramework.xml
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\bin\Debug\KLO.Model.pdb
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\obj\Debug\KLO.Data.csprojAssemblyReference.cache
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\obj\Debug\KLO.Data.csproj.CoreCompileInputs.cache
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\obj\Debug\KLO.Data.csproj.CopyComplete
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\obj\Debug\KLO.Data.dll
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Data\obj\Debug\KLO.Data.pdb

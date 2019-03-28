@@ -1,0 +1,2 @@
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Tests\obj\Debug\KLO.Tests.csprojAssemblyReference.cache
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Tests\obj\Debug\KLO.Tests.csproj.CoreCompileInputs.cache

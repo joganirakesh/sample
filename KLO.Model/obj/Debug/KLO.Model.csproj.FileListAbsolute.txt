@@ -1,0 +1,6 @@
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Model\bin\Debug\KLO.Model.dll
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Model\bin\Debug\KLO.Model.pdb
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Model\obj\Debug\KLO.Model.csprojAssemblyReference.cache
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Model\obj\Debug\KLO.Model.csproj.CoreCompileInputs.cache
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Model\obj\Debug\KLO.Model.dll
+C:\Users\mukes\source\repos\Repos3\KLO\KLO.Model\obj\Debug\KLO.Model.pdb
